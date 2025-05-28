@@ -83,7 +83,7 @@ Follow these steps to set up the project locally:
 
 ### Running The Application
     - To run the application locally, start your Apache server and navigate to the project directory in your browser:
-        http://localhost/online-food-ordering-system
+        http://localhost/SmartCart
         
        
 ## Access Instructions
