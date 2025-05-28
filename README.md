@@ -1,19 +1,17 @@
-# Online Food Order System for Restaurant
+#  SmartCart An Online Food Order System for Restaurant
 
 An efficient and user-friendly online food ordering system designed to enhance the dining experience for customers and streamline operations for restaurant admins.
-
 ## Table of Contents
 
 - [About](#about)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
   - [Access Instructions](#access-instructions)
-- [Author](#author)  
+
 
 
 ## About
@@ -55,22 +53,6 @@ This project provides a comprehensive solution for restaurants to manage their m
 - **Database**: MySQL
 - **Others**: Bootstrap for UI components, jQuery for DOM manipulation, AOS Library for scroll animation.
 
-## Screenshots
-
-These images are included to better illustrate the functionality and user interface of the Online Food Order System and showcase different parts of the application, including the customer interface, admin panel, and key features.
-
-### Admin Interface Screenshot
-
-1. **Dashboard Overview**  
-   ![Admin Dashboard](UI-Screenshots/Admin-Index.png)
-
-### User Interface Screenshot
-
-1. **User Interface Overview**  
-   ![User Index](UI-Screenshots/User-Index.png)
-
-For more detailed UI screenshots, please check the `UI-Screenshots` folder.
-
 ## Getting Started
 
 ### Prerequisites
@@ -89,7 +71,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/asnaassalam/online-food-ordering-system.git
+   git clone https://github.com/Lohit-Devadiga/SmartCart.git
 
 2. **Navigate to the project directory:**
     
@@ -117,14 +99,14 @@ To log in to the admin panel:
    - **Admin**: Use any email with the role `admin` and the corresponding password.
 
    Example credentials:
-   - **Email**: `admin@gmail.com`
-   - **Password**: `admin2024`
+   - **Email**: `ld@gmail.com`
+   - **Password**: `lo123`
 
 3. **Access the Admin Panel**: 
 
    Navigate to the following URL in your web browser:
 
-    http://localhost/online-food-ordering-system/Admin
+    http://localhost/SmartCart/Admin
 
 ### User Access
 
@@ -145,13 +127,8 @@ Example registration details:
 
     Navigate to the following URL in your web browser:
 
-     http://localhost/online-food-ordering-system/index.php
+     http://localhost/SmartCart/index.php
 
-After logging in, you can browse the menu, add items to your cart, place orders, and view your order history.
-
-## Author
-
-- **[Asna Assalam](https://github.com/asnaassalam)**: Creator and developer of the Online Food Order System.
  
 
 
